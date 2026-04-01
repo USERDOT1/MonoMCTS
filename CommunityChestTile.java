@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Random;
 public class CommunityChestTile extends Tile{
 	private final ArrayList<Card> communityChestCards;
 	public CommunityChestTile(int position, ArrayList<Card> communityChestCards) {
