@@ -22,7 +22,7 @@ public class GameRunner{
 			System.out.println(players.get(0));
 			players.get(0).moveBy(gameDice.rollDice());
 		}
-		
+		input.close();
 	}
 	
 	
